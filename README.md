@@ -1,2 +1,2 @@
 # defaulTETRIS
-My (almost) first project on C++ 
+Classic Tetris game in C++ using raylib. 
